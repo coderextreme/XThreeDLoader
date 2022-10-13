@@ -1,3 +1,5 @@
+# XThreeDLoader -- X3D XML Loader for Three.js
+
 ```
 git clone https://github.com/coderextreme/XThreeDLoader
 cd XThreeDLoader
