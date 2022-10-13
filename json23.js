@@ -10,6 +10,6 @@ var convertJSON = require('./convertJSON.js').convertJSON;
 convertJSON([{ 
 	serializer : './Three2Serializer.js',
 	folder : "./three2/",
-	extension : ".three2.js",
+	extension : ".three2.vrml",
 	codeOutput : "",
 	}]);
